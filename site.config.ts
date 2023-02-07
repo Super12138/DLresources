@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'cutewp',
 
   // open graph metadata (optional)
-  description: 'Probably the resource site with the most complete resources about Dancing Line',
+  description: '可能是资源最齐全的关于跳舞的线的资源站',
 
   // social usernames (optional)
   twitter: '',
