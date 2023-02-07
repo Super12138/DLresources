@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'cutewp',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '可能是资源最齐全的关于跳舞的线的资源站',
 
   // social usernames (optional)
   twitter: '',
