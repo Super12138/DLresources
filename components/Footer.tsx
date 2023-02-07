@@ -44,7 +44,7 @@ export const FooterImpl: React.FC = () => {
             href='#'
             role='button'
             onClick={onToggleDarkMode}
-            title='Toggle dark mode'
+            title='切换明暗主题'
           >
             {isDarkMode ? <IoMoonSharp /> : <IoSunnyOutline />}
           </a>
